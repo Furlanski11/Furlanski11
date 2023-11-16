@@ -35,6 +35,11 @@ I am a Software Engineering student <img src="https://media.giphy.com/media/WUlp
 
 ---
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Furlanski11&theme=juicyfresh)
+
+---
+
+
 ### :fire: My Stats :
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Furlanski11&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
