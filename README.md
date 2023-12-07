@@ -12,13 +12,13 @@
 
 ---
 
-### :man_technologist: About Me :
+About Me :
 I am a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria.
 - :telescope: I’m studying Software Engineering with C# in Software University, and aside that I'm 3rd year Information and Computer Engineering student in PU "Paisii Hilendarski" Plovdiv.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".Net" alt=".NetCore" width="40" height="40"/>&nbsp;
