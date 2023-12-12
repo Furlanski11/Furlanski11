@@ -37,7 +37,7 @@ Languages and Tools :
 ---
 
 
-### :fire: My Stats :
+ My Stats :
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Furlanski11&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
 
