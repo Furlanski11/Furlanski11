@@ -15,7 +15,7 @@
 About Me :
 
 I am a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria.
-- :telescope: I’m studying Software Engineering with C# in Software University, and aside that I'm 3rd year Information and Computer Engineering student in PU "Paisii Hilendarski" Plovdiv.
+- :man_student: I’m studying Software Engineering with C# in Software University, and aside that I'm 3rd year Information and Computer Engineering student in PU "Paisii Hilendarski" Plovdiv.
 - :motorcycle: I'm a motorcyclist and a big automotive sports fan!
 
 ---
@@ -23,6 +23,7 @@ I am a Software Engineering student <img src="https://media.giphy.com/media/WUlp
 Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="dotNet" alt="dotNet" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".Net" alt=".NetCore" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
