@@ -15,7 +15,7 @@
 About Me :
 
 I am a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria.
-- :man_student: I’m studying Software Engineering with C# in Software University, and aside that I'm 3rd year Information and Computer Engineering student in PU "Paisii Hilendarski" Plovdiv.
+- :man_student: I’m studying Software Engineering with C# in Software University, and aside that I'm 4th year Information and Computer Engineering student in PU "Paisii Hilendarski" Plovdiv.
 - :motorcycle: I'm a motorcyclist and a big automotive sports fan!
 
 ---
